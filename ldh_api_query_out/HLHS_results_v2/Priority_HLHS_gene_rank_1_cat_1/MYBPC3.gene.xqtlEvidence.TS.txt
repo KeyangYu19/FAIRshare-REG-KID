@@ -1,4 +1,0 @@
-https://gtexportal.org/home/snp/chr11_47351198_C_G_b38 Heart_Atrial_Appendage
-https://gtexportal.org/home/snp/chr11_47349481_A_C_b38 Heart_Atrial_Appendage
-https://gtexportal.org/home/snp/chr11_47337446_G_A_b38 Heart_Atrial_Appendage
-https://gtexportal.org/home/snp/chr11_47330209_G_A_b38 Heart_Atrial_Appendage
