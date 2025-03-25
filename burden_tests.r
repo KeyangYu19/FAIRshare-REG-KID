@@ -177,7 +177,7 @@ dev.off()
 ### Burden test for nonTS model
 reg_ls_bed$chr = gsub("chr","",reg_ls_bed$chr)
 
-reg_nonts_ls_els_pls = reg_ls_bed
+reg_nonts_ls_els_pls = reg_ls_bed[grepl("PLS",reg_ls_bed$type) | grepl("ELS",reg_ls_bed$type),]
 
 # Filter for in-range (10kbps) cREs
 reg_nonts_ls_els_pls <- reg_nonts_ls_els_pls[sapply(1:nrow(reg_nonts_ls_els_pls), function(i) {
