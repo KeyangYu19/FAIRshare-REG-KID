@@ -1,0 +1,3 @@
+https://gtexportal.org/home/snp/chr16_86573350_G_C_b38 Artery_Tibial
+https://gtexportal.org/home/snp/chr16_86569660_G_A_b38 Artery_Tibial
+https://gtexportal.org/home/snp/chr16_86563669_C_T_b38 Artery_Tibial
