@@ -1,0 +1,26 @@
+Summary report
+
+Gene group: Priority_HLHS_gene_rank_1_cat_1
+Total gene number: 25
+Number of genes that has RE in LDH: 24
+Total number of associated unique REs (by distance): 1638
+Total number of gene associated xqtl records: 464
+Total number of gene associated xqtl that has keyword heart|cardiac|liver|artery: 235
+Number of active RE evidence records associated with heart|cardiac|liver|artery: 1402
+Number of unique REs with records associated with heart|cardiac|liver|artery: 464
+Number of inactive RE evidence records associated with heart|cardiac|liver|artery: 88350
+Number of unique REs with inactive records associated with heart|cardiac|liver|artery: 1578
+Number of ambivalent REs: 450, see listed:
+All ambivalent REs can be found in RE.ambivalent.txt
+See more details in RE.ambivalent.detail.txt
+Here's a quick summary of the variant-level regulatory evidence:
+Note: Allele-specific evidence contains both statistically significant and non-statistically significant results
+Total number of Allele-specific evidence and eQTL/sQTL evidence:
+Allele-specific evidence line: 25376
+xQTL evidence line: 4081
+See more details in vq.fulldoc.AS.tsv and vq.fulldoc.xqtl.tsv.
+Total number Allele-specific evidence and eQTL/sQTL evidence associated with heart|cardiac|liver|artery:
+Allele-specific evidence line with heart|cardiac|liver|artery: 1701
+xQTL evidence line with heart|cardiac|liver|artery: 791
+See more heart|cardiac|liver|artery-specific evidence details in Priority_HLHS_gene_rank_1_cat_1.vq.fulldoc.AS.TS.tsv and Priority_HLHS_gene_rank_1_cat_1.vq.fulldoc.xqtl.TS.tsv.
+
