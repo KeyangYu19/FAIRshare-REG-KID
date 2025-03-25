@@ -1,0 +1,6 @@
+https://gtexportal.org/home/snp/chr18_31498664_A_G_b38 Liver
+https://gtexportal.org/home/snp/chr18_31490478_G_A_b38 Liver
+https://gtexportal.org/home/snp/chr18_31490750_T_C_b38 Liver
+https://gtexportal.org/home/snp/chr18_31488703_G_A_b38 Liver
+https://gtexportal.org/home/snp/chr18_31489617_G_C_b38 Liver
+https://gtexportal.org/home/snp/chr18_31488699_C_T_b38 Liver
