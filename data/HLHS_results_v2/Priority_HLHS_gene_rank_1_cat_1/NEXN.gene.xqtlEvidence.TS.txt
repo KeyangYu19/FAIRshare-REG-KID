@@ -1,0 +1,6 @@
+https://gtexportal.org/home/snp/chr1_77927182_C_T_b38 Heart_Atrial_Appendage
+https://gtexportal.org/home/snp/chr1_77927182_C_T_b38 Artery_Aorta
+https://gtexportal.org/home/snp/chr1_77908231_T_C_b38 Artery_Tibial
+https://gtexportal.org/home/snp/chr1_77908231_T_C_b38 Heart_Atrial_Appendage
+https://gtexportal.org/home/snp/chr1_77908231_T_C_b38 Artery_Aorta
+https://gtexportal.org/home/snp/chr1_77927182_C_T_b38 Artery_Tibial
